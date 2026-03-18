@@ -1,0 +1,26 @@
+# 数据文件
+*.log
+*.tmp
+*.swp
+
+# 大文件
+*.zip
+*.tar.gz
+*.rar
+
+# 环境
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 临时文件
+tmp/
+temp/
